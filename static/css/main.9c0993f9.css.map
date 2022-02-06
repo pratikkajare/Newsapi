@@ -1,0 +1,1 @@
+{"version":3,"file":"static/css/main.9c0993f9.css","mappings":"AAAA,EACE,kCAAmC,CACnC,iCACF,CACA,SAEE,uBACF","sources":["App.css"],"sourcesContent":["*{\n  -webkit-font-smoothing: antialiased;\n  -moz-osx-font-smoothing: grayscale;\n}\n.bgcolor\n{\n  background-color: bisque;\n}"],"names":[],"sourceRoot":""}
